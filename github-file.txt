@@ -5,3 +5,5 @@ File was created directly on GitHub
 Еще одна строка для ветки branch_1
 
 Вторая строка для ветки branch_1
+
+Просто третья строка
