@@ -1,1 +1,5 @@
 File was created directly on GitHub
+
+Привет из новой ветки branch_1
+
+Еще одна строка для ветки branch_1
