@@ -7,3 +7,5 @@ File was created directly on GitHub
 Вторая строка для ветки branch_1
 
 Просто третья строка
+
+Уже четвертая строка
